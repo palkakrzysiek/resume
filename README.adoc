@@ -1,0 +1,42 @@
+= Krzysztof Palka
+
+✉️ hi@kpalka.com +
+🌐 http://kpalka.com[kpalka.com]
+
+== Experience
+
+=== Idemia (08.2017 -- present)
+Developing an eSIM management application suite. +
+Used technologies: Akka/Scala, Cassandra, MariaDB, Spring Boot/Java+Vavr, Docker
+
+=== Bluesoft (01.2017 -- 07.2017)
+Developing a monitoring application for an electric power company. +
+Used technologies: Spark Streaming/Scala, Kafka, Cassandra, Spring Boot/Java, Angular2 + Chart.js + ReactiveX/TypeScript, Docker
+
+=== Accenture (01.2016 -- 12.2016)
+Developing eCommerce platforms in Hybris and ATG for telcoms. +
+Technologies we used (depending on project): JavaEE/Spring, HTML, CSS, jQuery, AngularJS (v1), GIT, SVN
+
+=== Transition Technologies (07.2014 -- 09.2014)
+(Internship) Developing a web application based on the Play! Framework with Java and
+Groovy.
+
+== Education
+=== Politechnika Łódzka (2012 -- 2017) +
+B.Eng., _Information Technology_ +
+Thesis topic: _Building, deploying, and running distributed applications with Docker_
+
+=== Fachhochschule Brandenburg (2015) +
+(Exchange) _Applied Computer Science_
+
+== Courses and certificates
+
+* link:cassandra.pdf[DataStax Certified Professional on Apache Cassandra]
+* https://www.coursera.org/account/accomplishments/specialization/KG4GCBN27DEQ[Functional Programming in Scala (5-course Specialization)]
+* https://www.youracclaim.com/badges/afc3b639-d15c-4925-8b7e-44280cc2d7a6/public_url[Oracle MOOC: Java Virtual Machine Troubleshooting]
+* https://www.youracclaim.com/badges/a474faea-12aa-433d-96a7-3af2530f736b/public_url[Oracle Certified Associate, Java SE 8 Programmer]
+
+== Languages
+* Polish (Native)
+* English (Professional Working Proficiency)
+* German (Limited Working Proficiency)
