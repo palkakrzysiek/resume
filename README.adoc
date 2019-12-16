@@ -31,12 +31,12 @@ Thesis topic: _Building, deploying, and running distributed applications with Do
 
 == Courses and certificates
 
-* link:cassandra.pdf[DataStax Certified Professional on Apache Cassandra]
-* https://www.coursera.org/account/accomplishments/specialization/KG4GCBN27DEQ[Functional Programming in Scala (5-course Specialization)]
-* https://www.youracclaim.com/badges/afc3b639-d15c-4925-8b7e-44280cc2d7a6/public_url[Oracle MOOC: Java Virtual Machine Troubleshooting]
-* https://www.youracclaim.com/badges/a474faea-12aa-433d-96a7-3af2530f736b/public_url[Oracle Certified Associate, Java SE 8 Programmer]
+* https://courses.edx.org/certificates/f147e70c6a3b499bbdb134c81fead02a[(2019) scala-reactiveX: Programming Reactive Systems]
+* link:cassandra.pdf[(2018) DataStax Certified Professional on Apache Cassandra]
+* https://www.coursera.org/account/accomplishments/specialization/KG4GCBN27DEQ[(2017) Functional Programming in Scala (5-course Specialization)]
+* https://www.youracclaim.com/badges/afc3b639-d15c-4925-8b7e-44280cc2d7a6/public_url[(2017) Oracle MOOC: Java Virtual Machine Troubleshooting]
+* https://www.youracclaim.com/badges/a474faea-12aa-433d-96a7-3af2530f736b/public_url[(2016) Oracle Certified Associate, Java SE 8 Programmer]
 
 == Languages
 * Polish (Native)
 * English (Professional Working Proficiency)
-* German (Limited Working Proficiency)
