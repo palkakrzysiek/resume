@@ -1,24 +1,31 @@
 = Krzysztof Palka
 
-✉️ hi@kpalka.com +
-🌐 http://kpalka.com[kpalka.com]
+hi@kpalka.com • http://kpalka.com[kpalka.com] • +48 669 323 331 • REGON 369258994
+
 
 == Experience
 
 === Idemia (08.2017 -- present)
-Developing an eSIM management application suite. +
-Used technologies: Akka/Scala, Cassandra, MariaDB, Spring Boot/Java+Vavr, Docker
+.Developing an eSIM management application suite.
+* Akka HTTP/Scala with cats library + Cassandra for the core module
+* Birt engine + MariaDB for the reporting module
+* Spring Boot/Java with Vavr library + Angular/TypeScript for GUI
+* Docker compose for local development, occasionally Kubernetes for troubleshooting
 
 === Bluesoft (01.2017 -- 07.2017)
-Developing a monitoring application for an electric power company. +
-Used technologies: Spark Streaming/Scala, Kafka, Cassandra, Spring Boot/Java, Angular2 + Chart.js + ReactiveX/TypeScript, Docker
+.Developing a monitoring application for an electric power company.
+* Spark Streaming/Scala + Kafka + Cassandra for data processing and storage
+* Spring Boot/Java + Angular/TypeScript + lodash + Chart.js for visualisations
+* Docker
 
 === Accenture (01.2016 -- 12.2016)
-Developing eCommerce platforms in Hybris and ATG for telcoms. +
-Technologies we used (depending on project): JavaEE/Spring, HTML, CSS, jQuery, AngularJS (v1), GIT, SVN
+.Developing eCommerce platforms for telcoms.
+* JavaEE with ATG platform
+* Spring with Hybris platform
+* AngularJS/JavaScript
 
 === Transition Technologies (07.2014 -- 09.2014)
-(Internship) Developing a web application based on the Play! Framework with Java and
+.(Internship) Developing a web application based on the Play! Framework with Java and
 Groovy.
 
 == Education
@@ -31,6 +38,7 @@ Thesis topic: _Building, deploying, and running distributed applications with Do
 
 == Courses and certificates
 
+* https://courses.edx.org/certificates/209f4e7851ec47cc88131da07a044682[(2019) Microsoft/DEVOPS200.9x: Architecting Distributed Cloud Applications]
 * https://courses.edx.org/certificates/f147e70c6a3b499bbdb134c81fead02a[(2019) scala-reactiveX: Programming Reactive Systems]
 * link:cassandra.pdf[(2018) DataStax Certified Professional on Apache Cassandra]
 * https://www.coursera.org/account/accomplishments/specialization/KG4GCBN27DEQ[(2017) Functional Programming in Scala (5-course Specialization)]
@@ -40,3 +48,5 @@ Thesis topic: _Building, deploying, and running distributed applications with Do
 == Languages
 * Polish (Native)
 * English (Professional Working Proficiency)
+
+I consent to store and process information provided in this document for recruitment or B2B cooperation offers. For entities operating in the EU countries, in accordance with GDPR regulations, please provide me the contact information of the entity storing or processing this data.
