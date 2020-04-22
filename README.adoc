@@ -38,6 +38,7 @@ Thesis topic: _Building, deploying, and running distributed applications with Do
 
 == Courses and certificates
 
+* https://www.futurelearn.com/certificates/f7u7jup[(2020) Functional Programming in Haskell]
 * https://courses.edx.org/certificates/209f4e7851ec47cc88131da07a044682[(2019) Microsoft/DEVOPS200.9x: Architecting Distributed Cloud Applications]
 * https://courses.edx.org/certificates/f147e70c6a3b499bbdb134c81fead02a[(2019) scala-reactiveX: Programming Reactive Systems]
 * link:cassandra.pdf[(2018) DataStax Certified Professional on Apache Cassandra]
