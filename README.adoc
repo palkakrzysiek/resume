@@ -38,11 +38,12 @@ Thesis topic: _Building, deploying, and running distributed applications with Do
 
 == Courses and certificates
 
-* https://www.futurelearn.com/certificates/f7u7jup[(2020) Functional Programming in Haskell]
-* https://courses.edx.org/certificates/209f4e7851ec47cc88131da07a044682[(2019) Microsoft/DEVOPS200.9x: Architecting Distributed Cloud Applications]
-* https://courses.edx.org/certificates/f147e70c6a3b499bbdb134c81fead02a[(2019) scala-reactiveX: Programming Reactive Systems]
-* link:cassandra.pdf[(2018) DataStax Certified Professional on Apache Cassandra]
-* https://www.coursera.org/account/accomplishments/specialization/KG4GCBN27DEQ[(2017) Functional Programming in Scala (5-course Specialization)]
+* https://www.coursera.org/account/accomplishments/specialization/8YMLUXDXVQA6[(2020) Blockchain by University at Buffalo & The State University of New York on Coursera. (4-course Specialization).] Covers Bitcoin, Ethereum, Smart contracts and DApps development, IPFS and Hyperledger overview.
+* https://www.futurelearn.com/certificates/f7u7jup[(2020) Functional Programming in Haskell by The University of Glasgow on FutureLearn]
+* https://courses.edx.org/certificates/209f4e7851ec47cc88131da07a044682[(2019) Microsoft/DEVOPS200.9x: Architecting Distributed Cloud Applications.] Covers 12-factor services, API versioning, messaging techniques, data schema versioning, eventual consistency patterns (CQRS, Event sourcing, Saga), and disaster recovery strategies.
+* https://courses.edx.org/certificates/f147e70c6a3b499bbdb134c81fead02a[(2019) scala-reactiveX: Programming Reactive Systems.] Covers programming fault tolerant applications with Akka actors (typed and untyped), Akka Stream, and leveraging back-pressured flows of data.
+* https://academy.datastax.com/certs/lookup/650914c6-aa36-4b72-99dd-e7f6aa19b610/[(2018) DataStax Certified Professional on Apache Cassandra]
+* https://www.coursera.org/account/accomplishments/specialization/KG4GCBN27DEQ[(2017) Functional Programming in Scala by École Polytechnique Fédérale de Lausanne on Coursera (5-course Specialization).] Covers functional program design, parallel programming, and big data analysis with Spark.
 * https://www.youracclaim.com/badges/afc3b639-d15c-4925-8b7e-44280cc2d7a6/public_url[(2017) Oracle MOOC: Java Virtual Machine Troubleshooting]
 * https://www.youracclaim.com/badges/a474faea-12aa-433d-96a7-3af2530f736b/public_url[(2016) Oracle Certified Associate, Java SE 8 Programmer]
 
@@ -50,4 +51,4 @@ Thesis topic: _Building, deploying, and running distributed applications with Do
 * Polish (Native)
 * English (Professional Working Proficiency)
 
-I consent to store and process information provided in this document for recruitment or B2B cooperation offers. For entities operating in the EU countries, in accordance with GDPR regulations, please provide me the contact information of the entity storing or processing this data.
+I consent to store and process information provided in this document for recruitment or B2B cooperation offers.
