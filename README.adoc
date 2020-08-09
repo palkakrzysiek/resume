@@ -25,8 +25,8 @@ hi@kpalka.com • http://kpalka.com[kpalka.com] • +48 669 323 331 • REGON 36
 * AngularJS/JavaScript
 
 === Transition Technologies (07.2014 -- 09.2014)
-.(Internship) Developing a web application based on the Play! Framework with Java and
-Groovy.
+.(Internship)
+Developing a web application based on the Play! Framework with Java and Groovy.
 
 == Education
 === Politechnika Łódzka (2012 -- 2017) +
@@ -49,6 +49,6 @@ Thesis topic: _Building, deploying, and running distributed applications with Do
 
 == Languages
 * Polish (Native)
-* English (Professional Working Proficiency)
+* English (https://github.com/palkakrzysiek/resume/blob/master/cpe.pdf[Cambridge C2 Proficiency certified])
 
-I consent to store and process information provided in this document for recruitment or B2B cooperation offers.
+I consent to store and process information provided in this document for recruitment or B2B cooperation processes.

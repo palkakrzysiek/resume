@@ -1,0 +1,2 @@
+#!/usr/bin/env bash -x
+asciidoctor-pdf -a \!pagenums README.adoc
