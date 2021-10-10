@@ -1,2 +1,3 @@
-#!/usr/bin/env bash -x
+#!/usr/bin/env -S bash -x
 asciidoctor-pdf -a \!pagenums README.adoc
+mv README.pdf krzysztof_palka_resume.pdf

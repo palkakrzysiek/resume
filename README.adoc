@@ -1,42 +1,47 @@
-= Krzysztof Palka
+== Krzysztof Palka
 
-hi@kpalka.com • http://kpalka.com[kpalka.com] • +48 669 323 331 • REGON 369258994
+palkakrzysiek@gmail.com • http://kpalka.com[kpalka.com] • +48 669 323 331
 
+=== Experience
 
-== Experience
+==== Adform (10.2020 -- present)
+.Developing and maintaining ad-tech services
+* Development and maintaining Spark (both batch and streaming) and Storm applications in Scala
+* Responsible for 50+ services during 24/7 on-call rotations
+* Tech stack used: Spark, Storm, Kafka, K8s, and Aerospike
 
-=== Idemia (08.2017 -- present)
+==== Idemia (08.2017 -- 09.2020)
 .Developing an eSIM management application suite.
 * Akka HTTP/Scala with cats library + Cassandra for the core module
 * Birt engine + MariaDB for the reporting module
 * Spring Boot/Java with Vavr library + Angular/TypeScript for GUI
 * Docker compose for local development, occasionally Kubernetes for troubleshooting
 
-=== Bluesoft (01.2017 -- 07.2017)
+==== Bluesoft (01.2017 -- 07.2017)
 .Developing a monitoring application for an electric power company.
 * Spark Streaming/Scala + Kafka + Cassandra for data processing and storage
 * Spring Boot/Java + Angular/TypeScript + lodash + Chart.js for visualisations
 * Docker
 
-=== Accenture (01.2016 -- 12.2016)
+==== Accenture (01.2016 -- 12.2016)
 .Developing eCommerce platforms for telcoms.
 * JavaEE with ATG platform
 * Spring with Hybris platform
 * AngularJS/JavaScript
 
-=== Transition Technologies (07.2014 -- 09.2014)
+==== Transition Technologies (07.2014 -- 09.2014)
 .(Internship)
 Developing a web application based on the Play! Framework with Java and Groovy.
 
-== Education
-=== Politechnika Łódzka (2012 -- 2017) +
+=== Education
+==== Politechnika Łódzka (2012 -- 2017) +
 B.Eng., _Information Technology_ +
 Thesis topic: _Building, deploying, and running distributed applications with Docker_
 
-=== Fachhochschule Brandenburg (2015) +
+==== Fachhochschule Brandenburg (2015) +
 (Exchange) _Applied Computer Science_
 
-== Courses and certificates
+=== Courses and certificates
 
 * https://www.coursera.org/account/accomplishments/specialization/8YMLUXDXVQA6[(2020) Blockchain by University at Buffalo & The State University of New York on Coursera. (4-course Specialization).] Covers Bitcoin, Ethereum, Smart contracts and DApps development, IPFS and Hyperledger overview.
 * https://www.futurelearn.com/certificates/f7u7jup[(2020) Functional Programming in Haskell by The University of Glasgow on FutureLearn]
@@ -47,7 +52,7 @@ Thesis topic: _Building, deploying, and running distributed applications with Do
 * https://www.youracclaim.com/badges/afc3b639-d15c-4925-8b7e-44280cc2d7a6/public_url[(2017) Oracle MOOC: Java Virtual Machine Troubleshooting]
 * https://www.youracclaim.com/badges/a474faea-12aa-433d-96a7-3af2530f736b/public_url[(2016) Oracle Certified Associate, Java SE 8 Programmer]
 
-== Languages
+=== Languages
 * Polish (Native)
 * English (https://github.com/palkakrzysiek/resume/blob/master/cpe.pdf[Cambridge C2 Proficiency certified])
 
